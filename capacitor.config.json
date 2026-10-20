@@ -1,0 +1,11 @@
+{
+  "appId": "br.com.barbeariadomramon.demo",
+  "appName": "Barbearia Dom Ramon Demo",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
